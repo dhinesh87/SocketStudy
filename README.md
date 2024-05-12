@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME : SANJAY.C
-## REGISTER NUMBER : 212223240150
+## NAME : DHINESH.M
+## REGISTER NUMBER : 212223040040
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
